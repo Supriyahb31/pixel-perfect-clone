@@ -158,7 +158,7 @@ export function Landing({ lang }: { lang: Lang }) {
                       <div className="my-4 h-px w-10 bg-gold transition-all duration-500 group-hover:w-20" />
                       <p className="font-serif italic text-ivory/80">{w.en}</p>
                     </div>
-                    <p className="font-kn text-xs text-ivory/60">ಅ. ನ. ಕೃಷ್ಣರಾಯ</p>
+                    <p className="font-kn text-xs text-ivory/60">ಎ. ಎನ್. ಕೃಷ್ಣರಾವ್</p>
                   </div>
                   <div className="mt-5">
                     <h3 className="font-serif text-xl text-navy">{w.en}{w.year && <span className="ml-2 text-sm text-gold">{w.year}</span>}</h3>
